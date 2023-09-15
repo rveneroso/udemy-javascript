@@ -1,4 +1,4 @@
-console.log(undefined);
+cd ../004console.log(undefined);
 console.log(null);
 
 console.log(undefined === null);

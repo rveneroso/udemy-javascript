@@ -11,6 +11,7 @@ console.log({
 });
 
 console.log({
+  // Em Javascript um objeto é definido por {}
   tenis: [
     {
       preco: 150,

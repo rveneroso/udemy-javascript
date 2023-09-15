@@ -11,6 +11,7 @@
 */
 
 console.log(123);
+// Converte para número antes e realiza a soma depois. Retorna 124.
 console.log(Number("123") + 1);
 
 console.log("******************");

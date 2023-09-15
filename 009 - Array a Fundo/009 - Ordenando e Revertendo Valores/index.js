@@ -27,6 +27,9 @@ const objArray = [
     nome: "José Troquatte",
   },
   {
+    nome: "José Trajano",
+  },
+  {
     nome: "Isabel Troquatte",
   },
   {

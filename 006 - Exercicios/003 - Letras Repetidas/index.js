@@ -14,5 +14,6 @@ for (let i = 0; i < palavra.length; i++) {
     letras[palavra[i]] = 1;
   }
 }
+console.log(`A variável letras é do tipo ${typeof letras}`)
 
 console.log(letras);

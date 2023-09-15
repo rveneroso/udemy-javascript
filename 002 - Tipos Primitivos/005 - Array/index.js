@@ -4,9 +4,10 @@
   1 - Conjunto de Dados
 */
 
-console.log(["Lista de Dados", "Conjunto de Dados"]);
-console.log(["Lista de Dados", "Conjunto de Dados"].length);
+// console.log(["Lista de Dados", "Conjunto de Dados"]);
+// console.log(["Lista de Dados", "Conjunto de Dados"].length);
 
-["Lista de Dados", "Conjunto de Dados"].forEach((res, index) => {
-  console.log(res, index);
+// Iterando sobre o array.
+["Lista de Dados", "Conjunto de Dados"].forEach((galinha, index) => {
+  console.log(galinha, index);
 });
